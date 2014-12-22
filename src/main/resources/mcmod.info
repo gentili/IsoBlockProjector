@@ -1,0 +1,16 @@
+[
+{
+  "modid": "isoblockprojector",
+  "name": "Isomorphic Block Projector Mod",
+  "description": "Allow external apps to request ismorphic projections from the block world",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Globnobulous"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
